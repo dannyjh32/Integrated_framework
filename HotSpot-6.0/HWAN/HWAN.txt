@@ -1,0 +1,169 @@
+337,504d336
+< gcc aa 1 340.62
+< 340
+< gcc aa 2 340.06
+< 340
+< gcc aa 3 338.02
+< 340
+< hmmer aa 1 344.84
+< 340
+< hmmer aa 2 344.28
+< 340
+< hmmer aa 3 342.02
+< 340
+< lbm aa 1 337.20
+< 340
+< lbm aa 2 336.63
+< 340
+< lbm aa 3 334.77
+< 330
+< mcf aa 1 334.37
+< 330
+< mcf aa 2 333.82
+< 330
+< mcf aa 3 332.11
+< 330
+< povray aa 1 353.74
+< 350
+< povray aa 2 353.19
+< 350
+< povray aa 3 350.79
+< 350
+< sjemg aa 1 345.30
+< 350
+< sjemg aa 2 344.73
+< 340
+< sjemg aa 3 342.53
+< 340
+< soplex aa 1 339.63
+< 340
+< soplex aa 2 339.07
+< 340
+< soplex aa 3 337.10
+< 340
+< gcc pv 1 336.24
+< 340
+< gcc pv 2 335.68
+< 340
+< gcc pv 3 333.64
+< 330
+< hmmer pv 1 340.13
+< 340
+< hmmer pv 2 339.57
+< 340
+< hmmer pv 3 337.31
+< 340
+< lbm pv 1 332.59
+< 330
+< lbm pv 2 332.04
+< 330
+< lbm pv 3 330.23
+< 330
+< mcf pv 1 330.93
+< 330
+< mcf pv 2 330.38
+< 330
+< mcf pv 3 328.67
+< 330
+< povray pv 1 346.77
+< 350
+< povray pv 2 346.16
+< 350
+< povray pv 3 343.86
+< 340
+< sjemg pv 1 340.38
+< 340
+< sjemg pv 2 339.81
+< 340
+< sjemg pv 3 337.60
+< 340
+< soplex pv 1 334.54
+< 330
+< soplex pv 2 333.99
+< 330
+< soplex pv 3 332.06
+< 330
+< gcc av 1 326.49
+< 330
+< gcc av 2 325.95
+< 330
+< gcc av 3 323.95
+< 320
+< hmmer av 1 329.46
+< 330
+< hmmer av 2 328.92
+< 330
+< hmmer av 3 326.70
+< 330
+< lbm av 1 323.58
+< 320
+< lbm av 2 323.03
+< 320
+< lbm av 3 321.24
+< 320
+< mcf av 1 322.28
+< 320
+< mcf av 2 321.74
+< 320
+< mcf av 3 320.04
+< 320
+< povray av 1 334.20
+< 330
+< povray av 2 333.65
+< 330
+< povray av 3 331.27
+< 330
+< sjemg av 1 329.49
+< 330
+< sjemg av 2 328.94
+< 330
+< sjemg av 3 326.72
+< 330
+< soplex av 1 325.23
+< 330
+< soplex av 2 324.69
+< 320
+< soplex av 3 322.77
+< 320
+< gcc l 1 323.02
+< 320
+< gcc l 2 322.48
+< 320
+< gcc l 3 320.51
+< 320
+< hmmer l 1 325.97
+< 330
+< hmmer l 2 325.43
+< 330
+< hmmer l 3 323.27
+< 320
+< lbm l 1 320.41
+< 320
+< lbm l 2 319.87
+< 320
+< lbm l 3 318.08
+< 320
+< mcf l 1 318.60
+< 320
+< mcf l 2 318.06
+< 320
+< mcf l 3 316.36
+< 320
+< povray l 1 330.49
+< 330
+< povray l 2 329.94
+< 330
+< povray l 3 327.70
+< 330
+< sjemg l 1 326.28
+< 330
+< sjemg l 2 325.73
+< 330
+< sjemg l 3 323.63
+< 320
+< soplex l 1 322.41
+< 320
+< soplex l 2 321.87
+< 320
+< soplex l 3 319.96
+< 320

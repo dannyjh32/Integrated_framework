@@ -1,0 +1,39 @@
+==> M3D_cpu_aa_3D_2L_povray_4.2GHz_M3D_aggressive_temp.steady <==
+layer_0_SA_0	337.76
+layer_0_SA_1	346.40
+layer_0_SA_2	346.40
+
+==> M3D_cpu_aa_3D_2L_povray_4.2GHz_M3D_conservative_temp.steady <==
+layer_0_SA_0	356.66
+layer_0_SA_1	369.54
+layer_0_SA_2	369.54
+
+==> M3D_cpu_liquid_3D_2L_povray_4.2GHz_M3D_aggressive_temp.steady <==
+layer_0_SA_0	317.55
+layer_0_SA_1	325.39
+layer_0_SA_2	325.39
+
+==> M3D_cpu_liquid_3D_2L_povray_4.2GHz_M3D_conservative_temp.steady <==
+layer_0_SA_0	321.22
+layer_0_SA_1	331.17
+layer_0_SA_2	331.17
+
+==> M3D_cpu_vapor_act_3D_2L_povray_4.2GHz_M3D_aggressive_temp.steady <==
+layer_0_SA_0	321.01
+layer_0_SA_1	329.10
+layer_0_SA_2	329.10
+
+==> M3D_cpu_vapor_act_3D_2L_povray_4.2GHz_M3D_conservative_temp.steady <==
+layer_0_SA_0	325.97
+layer_0_SA_1	336.46
+layer_0_SA_2	336.46
+
+==> M3D_cpu_vapor_passive_3D_2L_povray_4.2GHz_M3D_aggressive_temp.steady <==
+layer_0_SA_0	333.17
+layer_0_SA_1	341.78
+layer_0_SA_2	341.78
+
+==> M3D_cpu_vapor_passive_3D_2L_povray_4.2GHz_M3D_conservative_temp.steady <==
+layer_0_SA_0	345.67
+layer_0_SA_1	358.55
+layer_0_SA_2	358.55

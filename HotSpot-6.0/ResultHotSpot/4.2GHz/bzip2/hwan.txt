@@ -1,0 +1,27 @@
+==> cpu_aa_2D_bzip2_4.2GHz_New_Thermal.steady <==
+GPU	322.66
+CORE_0	333.86
+CORE_1	334.30
+CORE_2	333.86
+CORE_3	334.30
+
+==> cpu_liquid_2D_bzip2_4.2GHz_New_Thermal.steady <==
+GPU	303.16
+CORE_0	314.20
+CORE_1	314.58
+CORE_2	314.20
+CORE_3	314.58
+
+==> cpu_vapor_act_2D_bzip2_4.2GHz_New_Thermal.steady <==
+GPU	306.95
+CORE_0	317.82
+CORE_1	318.17
+CORE_2	317.82
+CORE_3	318.17
+
+==> cpu_vapor_passive_2D_bzip2_4.2GHz_New_Thermal.steady <==
+GPU	317.63
+CORE_0	328.84
+CORE_1	329.24
+CORE_2	328.84
+CORE_3	329.24

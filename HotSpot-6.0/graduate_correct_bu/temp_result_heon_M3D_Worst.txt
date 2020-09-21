@@ -1,0 +1,168 @@
+gcc aa 1 364.72
+360
+gcc aa 2 363.90
+360
+gcc aa 3 361.31
+360
+hmmer aa 1 371.05
+370
+hmmer aa 2 370.31
+370
+hmmer aa 3 367.73
+370
+lbm aa 1 353.91
+350
+lbm aa 2 353.18
+350
+lbm aa 3 351.15
+350
+mcf aa 1 348.74
+350
+mcf aa 2 348.04
+350
+mcf aa 3 346.14
+350
+povray aa 1 404.36
+370
+povray aa 2 403.40
+370
+povray aa 3 399.59
+370
+sjemg aa 1 399.38
+370
+sjemg aa 2 398.38
+370
+sjemg aa 3 394.71
+370
+soplex aa 1 353.82
+350
+soplex aa 2 353.16
+350
+soplex aa 3 351.19
+350
+gcc pv 1 350.96
+350
+gcc pv 2 350.25
+350
+gcc pv 3 348.16
+350
+hmmer pv 1 353.76
+350
+hmmer pv 2 353.11
+350
+hmmer pv 3 350.96
+350
+lbm pv 1 344.55
+340
+lbm pv 2 343.85
+340
+lbm pv 3 341.97
+340
+mcf pv 1 341.82
+340
+mcf pv 2 341.15
+340
+mcf pv 3 339.39
+340
+povray pv 1 395.29
+370
+povray pv 2 394.33
+370
+povray pv 3 370.52
+370
+sjemg pv 1 358.28
+360
+sjemg pv 2 357.45
+360
+sjemg pv 3 355.02
+360
+soplex pv 1 344.94
+340
+soplex pv 2 344.31
+340
+soplex pv 3 342.48
+340
+gcc av 1 335.41
+340
+gcc av 2 334.74
+330
+gcc av 3 332.82
+330
+hmmer av 1 338.61
+340
+hmmer av 2 337.99
+340
+hmmer av 3 335.97
+340
+lbm av 1 332.67
+330
+lbm av 2 331.97
+330
+lbm av 3 330.13
+330
+mcf av 1 330.55
+330
+mcf av 2 329.89
+330
+mcf av 3 328.17
+330
+povray av 1 344.84
+340
+povray av 2 344.19
+340
+povray av 3 341.89
+340
+sjemg av 1 339.43
+340
+sjemg av 2 338.75
+340
+sjemg av 3 336.64
+340
+soplex av 1 333.14
+330
+soplex av 2 332.52
+330
+soplex av 3 330.71
+330
+gcc l 1 331.25
+330
+gcc l 2 330.59
+330
+gcc l 3 328.68
+330
+hmmer l 1 333.87
+330
+hmmer l 2 333.26
+330
+hmmer l 3 331.27
+330
+lbm l 1 328.81
+330
+lbm l 2 328.11
+330
+lbm l 3 326.27
+330
+mcf l 1 326.12
+330
+mcf l 2 325.46
+330
+mcf l 3 323.73
+320
+povray l 1 340.43
+340
+povray l 2 339.78
+340
+povray l 3 337.48
+340
+sjemg l 1 334.79
+330
+sjemg l 2 334.12
+330
+sjemg l 3 332.05
+330
+soplex l 1 329.78
+330
+soplex l 2 329.16
+330
+soplex l 3 327.36
+330

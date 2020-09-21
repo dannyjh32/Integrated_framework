@@ -1,0 +1,287 @@
+==> bzip2/M3D_cpu_aa_3D_2L_bzip2_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	331.80
+layer_0_SA_1	338.40
+layer_0_SA_2	338.40
+layer_0_CACHE	337.89
+layer_1_INTER	337.88
+layer_2_L2_GPU	331.24
+
+==> bzip2/M3D_cpu_liquid_3D_2L_bzip2_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	314.87
+layer_0_SA_1	321.18
+layer_0_SA_2	321.18
+layer_0_CACHE	320.66
+layer_1_INTER	320.67
+layer_2_L2_GPU	314.39
+
+==> bzip2/M3D_cpu_vapor_act_3D_2L_bzip2_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	317.89
+layer_0_SA_1	324.26
+layer_0_SA_2	324.26
+layer_0_CACHE	323.73
+layer_1_INTER	323.76
+layer_2_L2_GPU	317.31
+
+==> bzip2/M3D_cpu_vapor_passive_3D_2L_bzip2_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	327.14
+layer_0_SA_1	333.62
+layer_0_SA_2	333.62
+layer_0_CACHE	333.10
+layer_1_INTER	333.11
+layer_2_L2_GPU	326.56
+
+==> calculix/M3D_cpu_aa_3D_2L_calculix_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	334.20
+layer_0_SA_1	341.59
+layer_0_SA_2	341.59
+layer_0_CACHE	341.12
+layer_1_INTER	341.06
+layer_2_L2_GPU	333.71
+
+==> calculix/M3D_cpu_liquid_3D_2L_calculix_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	316.50
+layer_0_SA_1	323.43
+layer_0_SA_2	323.43
+layer_0_CACHE	322.95
+layer_1_INTER	322.92
+layer_2_L2_GPU	316.04
+
+==> calculix/M3D_cpu_vapor_act_3D_2L_calculix_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	319.18
+layer_0_SA_1	326.23
+layer_0_SA_2	326.23
+layer_0_CACHE	325.73
+layer_1_INTER	325.72
+layer_2_L2_GPU	318.66
+
+==> calculix/M3D_cpu_vapor_passive_3D_2L_calculix_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	329.06
+layer_0_SA_1	336.23
+layer_0_SA_2	336.23
+layer_0_CACHE	335.74
+layer_1_INTER	335.72
+layer_2_L2_GPU	328.55
+
+==> gcc/M3D_cpu_aa_3D_2L_gcc_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	331.01
+layer_0_SA_1	337.48
+layer_0_SA_2	337.48
+layer_0_CACHE	336.98
+layer_1_INTER	336.94
+layer_2_L2_GPU	330.45
+
+==> gcc/M3D_cpu_liquid_3D_2L_gcc_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	314.72
+layer_0_SA_1	320.88
+layer_0_SA_2	320.88
+layer_0_CACHE	320.37
+layer_1_INTER	320.36
+layer_2_L2_GPU	314.23
+
+==> gcc/M3D_cpu_vapor_act_3D_2L_gcc_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	317.83
+layer_0_SA_1	324.04
+layer_0_SA_2	324.04
+layer_0_CACHE	323.52
+layer_1_INTER	323.53
+layer_2_L2_GPU	317.24
+
+==> gcc/M3D_cpu_vapor_passive_3D_2L_gcc_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	326.75
+layer_0_SA_1	333.08
+layer_0_SA_2	333.08
+layer_0_CACHE	332.56
+layer_1_INTER	332.56
+layer_2_L2_GPU	326.17
+
+==> hmmer/M3D_cpu_aa_3D_2L_hmmer_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	333.35
+layer_0_SA_1	340.75
+layer_0_SA_2	340.75
+layer_0_CACHE	340.23
+layer_1_INTER	340.23
+layer_2_L2_GPU	332.81
+
+==> hmmer/M3D_cpu_liquid_3D_2L_hmmer_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	315.81
+layer_0_SA_1	322.85
+layer_0_SA_2	322.85
+layer_0_CACHE	322.32
+layer_1_INTER	322.35
+layer_2_L2_GPU	315.36
+
+==> hmmer/M3D_cpu_vapor_act_3D_2L_hmmer_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	318.94
+layer_0_SA_1	326.05
+layer_0_SA_2	326.05
+layer_0_CACHE	325.51
+layer_1_INTER	325.55
+layer_2_L2_GPU	318.38
+
+==> hmmer/M3D_cpu_vapor_passive_3D_2L_hmmer_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	328.50
+layer_0_SA_1	335.72
+layer_0_SA_2	335.72
+layer_0_CACHE	335.18
+layer_1_INTER	335.21
+layer_2_L2_GPU	327.95
+
+==> lbm/M3D_cpu_aa_3D_2L_lbm_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	328.19
+layer_0_SA_1	333.49
+layer_0_SA_2	333.49
+layer_0_CACHE	332.96
+layer_1_INTER	332.96
+layer_2_L2_GPU	327.55
+
+==> lbm/M3D_cpu_liquid_3D_2L_lbm_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	312.97
+layer_0_SA_1	318.08
+layer_0_SA_2	318.08
+layer_0_CACHE	317.56
+layer_1_INTER	317.56
+layer_2_L2_GPU	312.40
+
+==> lbm/M3D_cpu_vapor_act_3D_2L_lbm_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	315.91
+layer_0_SA_1	321.08
+layer_0_SA_2	321.08
+layer_0_CACHE	320.55
+layer_1_INTER	320.56
+layer_2_L2_GPU	315.27
+
+==> lbm/M3D_cpu_vapor_passive_3D_2L_lbm_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	324.37
+layer_0_SA_1	329.65
+layer_0_SA_2	329.65
+layer_0_CACHE	329.13
+layer_1_INTER	329.13
+layer_2_L2_GPU	323.73
+
+==> mcf/M3D_cpu_aa_3D_2L_mcf_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	326.59
+layer_0_SA_1	331.44
+layer_0_SA_2	331.44
+layer_0_CACHE	330.89
+layer_1_INTER	330.92
+layer_2_L2_GPU	325.95
+
+==> mcf/M3D_cpu_liquid_3D_2L_mcf_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	311.71
+layer_0_SA_1	316.37
+layer_0_SA_2	316.37
+layer_0_CACHE	315.82
+layer_1_INTER	315.85
+layer_2_L2_GPU	311.09
+
+==> mcf/M3D_cpu_vapor_act_3D_2L_mcf_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	315.23
+layer_0_SA_1	319.97
+layer_0_SA_2	319.97
+layer_0_CACHE	319.41
+layer_1_INTER	319.46
+layer_2_L2_GPU	314.60
+
+==> mcf/M3D_cpu_vapor_passive_3D_2L_mcf_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	323.38
+layer_0_SA_1	328.21
+layer_0_SA_2	328.21
+layer_0_CACHE	327.66
+layer_1_INTER	327.69
+layer_2_L2_GPU	322.74
+
+==> povray/M3D_cpu_aa_3D_2L_povray_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	337.52
+layer_0_SA_1	346.46
+layer_0_SA_2	346.46
+layer_0_CACHE	346.01
+layer_1_INTER	345.93
+layer_2_L2_GPU	337.02
+
+==> povray/M3D_cpu_liquid_3D_2L_povray_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	318.59
+layer_0_SA_1	327.06
+layer_0_SA_2	327.06
+layer_0_CACHE	326.60
+layer_1_INTER	326.54
+layer_2_L2_GPU	318.11
+
+==> povray/M3D_cpu_vapor_act_3D_2L_povray_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	321.92
+layer_0_SA_1	330.62
+layer_0_SA_2	330.62
+layer_0_CACHE	330.15
+layer_1_INTER	330.11
+layer_2_L2_GPU	321.43
+
+==> povray/M3D_cpu_vapor_passive_3D_2L_povray_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	332.95
+layer_0_SA_1	341.85
+layer_0_SA_2	341.85
+layer_0_CACHE	341.40
+layer_1_INTER	341.32
+layer_2_L2_GPU	332.45
+
+==> sjeng/M3D_cpu_aa_3D_2L_sjeng_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	334.05
+layer_0_SA_1	341.55
+layer_0_SA_2	341.55
+layer_0_CACHE	341.09
+layer_1_INTER	341.03
+layer_2_L2_GPU	333.55
+
+==> sjeng/M3D_cpu_liquid_3D_2L_sjeng_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	316.31
+layer_0_SA_1	323.35
+layer_0_SA_2	323.35
+layer_0_CACHE	322.87
+layer_1_INTER	322.84
+layer_2_L2_GPU	315.84
+
+==> sjeng/M3D_cpu_vapor_act_3D_2L_sjeng_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	319.09
+layer_0_SA_1	326.27
+layer_0_SA_2	326.27
+layer_0_CACHE	325.78
+layer_1_INTER	325.76
+layer_2_L2_GPU	318.58
+
+==> sjeng/M3D_cpu_vapor_passive_3D_2L_sjeng_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	328.84
+layer_0_SA_1	336.14
+layer_0_SA_2	336.14
+layer_0_CACHE	335.66
+layer_1_INTER	335.63
+layer_2_L2_GPU	328.34
+
+==> soplex/M3D_cpu_aa_3D_2L_soplex_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	329.55
+layer_0_SA_1	335.42
+layer_0_SA_2	335.42
+layer_0_CACHE	334.87
+layer_1_INTER	334.91
+layer_2_L2_GPU	328.91
+
+==> soplex/M3D_cpu_liquid_3D_2L_soplex_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	314.12
+layer_0_SA_1	319.82
+layer_0_SA_2	319.82
+layer_0_CACHE	319.27
+layer_1_INTER	319.31
+layer_2_L2_GPU	313.57
+
+==> soplex/M3D_cpu_vapor_act_3D_2L_soplex_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	316.65
+layer_0_SA_1	322.41
+layer_0_SA_2	322.41
+layer_0_CACHE	321.84
+layer_1_INTER	321.90
+layer_2_L2_GPU	316.01
+
+==> soplex/M3D_cpu_vapor_passive_3D_2L_soplex_3.95GHz_New_Thermal.steady <==
+layer_0_SA_0	325.42
+layer_0_SA_1	331.27
+layer_0_SA_2	331.27
+layer_0_CACHE	330.71
+layer_1_INTER	330.76
+layer_2_L2_GPU	324.77

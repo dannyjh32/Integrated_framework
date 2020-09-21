@@ -1,0 +1,183 @@
+test
+After test_heon.txt
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_360.steady
+After test_heon.txt
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_310.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_320.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_330.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_340.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_350.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_360.steady
+awk NR==3{ print $2 } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_360.steady
+After test_heon.txt
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_310.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_320.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_330.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_340.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_350.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/bzip2/cpu_aa_2D_bzip2_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/calculix/cpu_aa_2D_calculix_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/gcc/cpu_aa_2D_gcc_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/hmmer/cpu_aa_2D_hmmer_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/lbm/cpu_aa_2D_lbm_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/mcf/cpu_aa_2D_mcf_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/povray/cpu_aa_2D_povray_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/sjeng/cpu_aa_2D_sjeng_5GHz_Thermal_360.steady
+awk NR==3{ echo $2 >> test_heon.txt } /home/SJ/HotSpot-6.0_hwan/supercom/5GHz/soplex/cpu_aa_2D_soplex_5GHz_Thermal_360.steady
+After test_heon.txt
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:
+chr:

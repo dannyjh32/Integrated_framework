@@ -1,0 +1,79 @@
+==> 4Layer_M3D_cpu_aa_3D_3L_lbm_4GHz_aggressive_degradation_Thermal.steady <==
+layer_0_L1_SA_0	352.19
+layer_0_L1_SA_1	340.13
+layer_0_L1_CACHE	354.86
+
+==> 4Layer_M3D_cpu_aa_3D_3L_lbm_4GHz_aggressive_Thermal.steady <==
+layer_0_L1_SA_0	348.15
+layer_0_L1_SA_1	337.96
+layer_0_L1_CACHE	349.68
+
+==> 4Layer_M3D_cpu_aa_3D_3L_lbm_4GHz_conservative_degradation_Thermal.steady <==
+layer_0_L1_SA_0	360.52
+layer_0_L1_SA_1	344.60
+layer_0_L1_CACHE	365.55
+
+==> 4Layer_M3D_cpu_aa_3D_3L_lbm_4GHz_conservative_Thermal.steady <==
+layer_0_L1_SA_0	355.00
+layer_0_L1_SA_1	341.63
+layer_0_L1_CACHE	358.45
+
+==> 4Layer_M3D_cpu_av_3D_3L_lbm_4GHz_aggressive_degradation_Thermal.steady <==
+layer_0_L1_SA_0	328.12
+layer_0_L1_SA_1	319.79
+layer_0_L1_CACHE	329.17
+
+==> 4Layer_M3D_cpu_av_3D_3L_lbm_4GHz_aggressive_Thermal.steady <==
+layer_0_L1_SA_0	326.02
+layer_0_L1_SA_1	318.83
+layer_0_L1_CACHE	326.14
+
+==> 4Layer_M3D_cpu_av_3D_3L_lbm_4GHz_conservative_degradation_Thermal.steady <==
+layer_0_L1_SA_0	332.66
+layer_0_L1_SA_1	321.73
+layer_0_L1_CACHE	335.34
+
+==> 4Layer_M3D_cpu_av_3D_3L_lbm_4GHz_conservative_Thermal.steady <==
+layer_0_L1_SA_0	329.64
+layer_0_L1_SA_1	320.45
+layer_0_L1_CACHE	331.26
+
+==> 4Layer_M3D_cpu_l_3D_3L_lbm_4GHz_aggressive_degradation_Thermal.steady <==
+layer_0_L1_SA_0	323.07
+layer_0_L1_SA_1	315.52
+layer_0_L1_CACHE	323.76
+
+==> 4Layer_M3D_cpu_l_3D_3L_lbm_4GHz_aggressive_Thermal.steady <==
+layer_0_L1_SA_0	321.33
+layer_0_L1_SA_1	314.76
+layer_0_L1_CACHE	321.11
+
+==> 4Layer_M3D_cpu_l_3D_3L_lbm_4GHz_conservative_degradation_Thermal.steady <==
+layer_0_L1_SA_0	326.90
+layer_0_L1_SA_1	317.06
+layer_0_L1_CACHE	329.12
+
+==> 4Layer_M3D_cpu_l_3D_3L_lbm_4GHz_conservative_Thermal.steady <==
+layer_0_L1_SA_0	324.34
+layer_0_L1_SA_1	316.05
+layer_0_L1_CACHE	325.58
+
+==> 4Layer_M3D_cpu_pv_3D_3L_lbm_4GHz_aggressive_degradation_Thermal.steady <==
+layer_0_L1_SA_0	347.48
+layer_0_L1_SA_1	335.44
+layer_0_L1_CACHE	350.14
+
+==> 4Layer_M3D_cpu_pv_3D_3L_lbm_4GHz_aggressive_Thermal.steady <==
+layer_0_L1_SA_0	343.71
+layer_0_L1_SA_1	333.54
+layer_0_L1_CACHE	345.23
+
+==> 4Layer_M3D_cpu_pv_3D_3L_lbm_4GHz_conservative_degradation_Thermal.steady <==
+layer_0_L1_SA_0	355.26
+layer_0_L1_SA_1	339.37
+layer_0_L1_CACHE	360.28
+
+==> 4Layer_M3D_cpu_pv_3D_3L_lbm_4GHz_conservative_Thermal.steady <==
+layer_0_L1_SA_0	350.10
+layer_0_L1_SA_1	336.77
+layer_0_L1_CACHE	353.55
