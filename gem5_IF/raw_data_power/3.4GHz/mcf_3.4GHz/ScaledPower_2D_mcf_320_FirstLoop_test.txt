@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/3.4GHz/mcf_3.4GHz/power_mcf_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 19.1121119
+LLC : 1.34153571
+SA w/o PCIe : 0.373677684
+PCIe : 0.43474667
+
+Scale With Sacling Factor 1.146262
+Core : 21.9074876107
+LLC : 1.53775140602
+SA(w/PCIe) : 10.6883322041
+Total Power : 34.1335712208
+

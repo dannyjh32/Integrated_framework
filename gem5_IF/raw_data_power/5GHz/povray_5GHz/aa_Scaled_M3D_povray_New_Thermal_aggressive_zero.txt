@@ -1,0 +1,9 @@
+Scale With Sacling Factor 1.187621
+******** Layer 0 ********
+LLC : 1.65358666176
+SA(w/PCIe) : 10.5478464683
+******** Layer 1 ********
+core : 28.837687828
+******** Layer 2 ********
+core : 28.837687828
+Total Power : 69.876808786

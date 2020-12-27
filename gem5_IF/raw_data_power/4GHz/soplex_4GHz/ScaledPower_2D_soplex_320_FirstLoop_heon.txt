@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/4GHz/soplex_4GHz/power_320_soplex_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 35.8769789
+LLC : 1.32106574
+SA w/o PCIe : 0.2546387142
+PCIe : 0.43474667
+
+Scale With Sacling Factor 1.051933
+Core : 37.7401780452
+LLC : 1.38967264708
+SA(w/PCIe) : 10.5278625412
+Total Power : 49.6577132335
+

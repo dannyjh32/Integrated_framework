@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/3.4GHz/hmmer_3.4GHz/power_hmmer_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 29.2761119
+LLC : 1.32505986
+SA w/o PCIe : 0.240413953
+PCIe : 0.43474667
+
+Scale With Sacling Factor 1.042875
+Core : 30.5313251977
+LLC : 1.3818718015
+SA(w/PCIe) : 10.4376665455
+Total Power : 42.3508635447
+

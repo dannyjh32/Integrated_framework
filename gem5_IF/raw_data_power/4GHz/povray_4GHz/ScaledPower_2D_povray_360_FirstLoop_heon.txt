@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/4GHz/povray_4GHz/power_360_povray_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 57.6606689
+LLC : 4.40666175
+SA w/o PCIe : 0.342654308
+PCIe : 0.56396177
+
+Scale With Sacling Factor 1.187621
+Core : 68.4790212597
+LLC : 5.2334440342
+SA(w/PCIe) : 13.62164489
+Total Power : 87.3341101839
+

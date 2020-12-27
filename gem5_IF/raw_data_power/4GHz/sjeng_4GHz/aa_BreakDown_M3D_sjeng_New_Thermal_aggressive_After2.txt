@@ -1,0 +1,4 @@
+Scale With Sacling Factor 1.23586
+Leakage Power : 7.56033848989
+Dynamic Power : 34.4273899296
+Total Power : 41.9877284194

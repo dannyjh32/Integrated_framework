@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/4GHz/gcc_4GHz/power_340_gcc_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 33.5252089
+LLC : 1.57998567
+SA w/o PCIe : 0.2807605467
+PCIe : 0.44548577
+
+Scale With Sacling Factor 1.203617
+Core : 40.3515113606
+LLC : 1.90169761217
+SA(w/PCIe) : 10.8513700646
+Total Power : 53.1045790374
+

@@ -1,0 +1,5 @@
+McPAT (version 1.3 of Feb, 2015) is computing the target processor...
+ 
+XML Parsing error inside file '/home/SJ/gem5-master/0819_real/3.2GHz/soplex_3.2GHz/mcpat_input_soplex_aggressive_320.xml'.
+Error: No XML data
+At line 0, column 0.

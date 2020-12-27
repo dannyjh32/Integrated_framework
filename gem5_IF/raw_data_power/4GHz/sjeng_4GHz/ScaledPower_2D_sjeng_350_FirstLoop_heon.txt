@@ -1,0 +1,14 @@
+Input File : /home/SJ/gem5-master/0819_real/4GHz/sjeng_4GHz/power_350_sjeng_aa_FirstLoop.txt
+
+Before Scaling 
+Core : 40.0531989
+LLC : 2.22954258
+SA w/o PCIe : 0.2759937467
+PCIe : 0.47285297
+
+Scale With Sacling Factor 1.23586
+Core : 49.5001463926
+LLC : 2.75540249292
+SA(w/PCIe) : 11.4209378681
+Total Power : 63.6764867535
+
